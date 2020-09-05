@@ -67,4 +67,6 @@ h1 {
 
 .work-background {
    background-color: antiquewhite;
+   margin: auto;
+   width: 66%;
 }

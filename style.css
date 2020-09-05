@@ -53,10 +53,11 @@ h1 {
 
 
 .info {
-   font-family:courier,helvetica,'Times New Roman', Times, serif;
+   font-family:courier,helvetica,Times, serif;
    font-variant-ligatures: normal;
    font-size: 1.2em;
    letter-spacing: 1px;
+   line-height: 2.5;
 }
 
 .skills-main p {
@@ -69,4 +70,11 @@ h1 {
    background-color: antiquewhite;
    margin: auto;
    width: 66%;
+   line-height: 2.5;
+}
+
+.coursework-body {
+   line-height: 2.5;
+   background-color: antiquewhite;
+
 }

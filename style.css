@@ -130,5 +130,7 @@ a {
    color: #CDFEAA;
  }
 
- 
+ .right-links .current {
+    background-color : red;
+ }
  

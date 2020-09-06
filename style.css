@@ -1,3 +1,5 @@
+
+
 body{
    margin:0px;
    margin-top:60px;
@@ -12,6 +14,7 @@ nav{
    background-color: rgb(251, 255, 196);
    overflow: auto;
    height: auto;
+   text-transform: uppercase;
 }
 .left-links{
    flex:2 2 200px;
@@ -69,7 +72,6 @@ h1 {
 
 .work-background {
    background-color: antiquewhite;
-   margin: auto;
    width: 66%;
    font-size: 1.0em;
    line-height: 2.5;
@@ -94,6 +96,9 @@ h1 {
 .interest-body {
    background-color: antiquewhite;
    padding: 10px 50px 20px;
+   font-size: 1.2em;
+   line-height: 2.5;
+   font-style: normal;
 }
 a {
    outline: none;
@@ -124,4 +129,5 @@ a {
    color: #CDFEAA;
  }
 
+ 
  

@@ -62,10 +62,10 @@ h1 {
    font-style: normal;
 }
 
-.skills-main p {
+.skills-main {
    letter-spacing: 1px;
-   margin: 1%;
-   font-size: 1.0em;
+   padding: 10px 50px 20px;
+   font-size: 1.2em;
    line-height: 2.5;
    font-style: normal;
 }

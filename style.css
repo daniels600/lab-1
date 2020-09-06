@@ -101,6 +101,7 @@ h1 {
    line-height: 2.5;
    font-style: normal;
 }
+
 a {
    outline: none;
    text-decoration: none;
@@ -130,7 +131,7 @@ a {
    color: #CDFEAA;
  }
 
- .right-links .current {
+ a #current {
     background-color : red;
  }
  

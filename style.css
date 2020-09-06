@@ -3,6 +3,10 @@ body{
    margin-top:60px;
    padding: 0px;
    background-color: rgb(233, 216, 195);
+   font-size: 1.2em;
+   line-height: 2.5;
+   font-style: normal;
+   font-weight: 100;
 }
 nav{
    display: flex;
@@ -53,14 +57,11 @@ h1 {
 
 
 .info {
-   font-variant-ligatures: normal;
-   font-size: 1.2em;
    letter-spacing: 1px;
-   line-height: 2.5;
+   
 }
 
 .skills-main p {
-   font-size: 1.2em;
    letter-spacing: 1px;
    margin: 1%;
 }
@@ -69,23 +70,20 @@ h1 {
    background-color: antiquewhite;
    margin: auto;
    width: 66%;
-   line-height: 2.5;
+   
 }
 
 .coursework-body {
-   line-height: 2.5;
    background-color: antiquewhite;
 
 }
 
 .project-body {
-   line-height: 2.5;
    background-color: antiquewhite;
    padding: 10px 50px 20px;
 }
 
 .interest-body {
-   line-height: 2.5;
    background-color: antiquewhite;
    padding: 10px 50px 20px;
 }
@@ -118,8 +116,4 @@ a {
    color: #CDFEAA;
  }
 
- * {
-   font-size: 1.2em;
-   font-style: normal;
-   font-weight: 100;
- }
+ 

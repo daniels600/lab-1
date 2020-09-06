@@ -78,6 +78,12 @@ h1 {
 
 }
 
+.project-body {
+   line-height: 2.5;
+   background-color: antiquewhite;
+   padding: 10px 50px 20px;
+}
+
 a {
    outline: none;
    text-decoration: none;

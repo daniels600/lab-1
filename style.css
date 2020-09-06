@@ -3,10 +3,6 @@ body{
    margin-top:60px;
    padding: 0px;
    background-color: rgb(233, 216, 195);
-   font-size: 1.2em;
-   line-height: 2.5;
-   font-style: normal;
-   font-weight: 100;
 }
 nav{
    display: flex;
@@ -58,18 +54,26 @@ h1 {
 
 .info {
    letter-spacing: 1px;
-   
+   font-size: 1.0em;
+   line-height: 2.5;
+   font-style: normal;
 }
 
 .skills-main p {
    letter-spacing: 1px;
    margin: 1%;
+   font-size: 1.0em;
+   line-height: 2.5;
+   font-style: normal;
 }
 
 .work-background {
    background-color: antiquewhite;
    margin: auto;
    width: 66%;
+   font-size: 1.0em;
+   line-height: 2.5;
+   font-style: normal;
    
 }
 

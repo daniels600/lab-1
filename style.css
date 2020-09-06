@@ -54,7 +54,7 @@ h1 {
 
 .info {
    letter-spacing: 1px;
-   font-size: 1.0em;
+   font-size: 1.2em;
    line-height: 2.5;
    font-style: normal;
 }
@@ -79,12 +79,16 @@ h1 {
 
 .coursework-body {
    background-color: antiquewhite;
+   font-size: 1.2em;
+   line-height: 2.5;
 
 }
 
 .project-body {
    background-color: antiquewhite;
    padding: 10px 50px 20px;
+   font-size: 1.0em;
+   line-height: 2.5;
 }
 
 .interest-body {

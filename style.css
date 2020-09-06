@@ -73,6 +73,7 @@ h1 {
 .work-background {
    background-color: antiquewhite;
    width: 66%;
+   margin: 1em;
    font-size: 1.0em;
    line-height: 2.5;
    font-style: normal;

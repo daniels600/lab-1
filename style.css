@@ -73,9 +73,7 @@ h1 {
 .work-background {
    background-color: antiquewhite;
    padding: 10px 50px 20px;
-   width: 66%;
-   margin: 2em;
-   font-size: 1.0em;
+   font-size: 1.2em;
    line-height: 2.5;
    font-style: normal;
    
@@ -91,7 +89,7 @@ h1 {
 .project-body {
    background-color: antiquewhite;
    padding: 10px 50px 20px;
-   font-size: 1.0em;
+   font-size: 1.2em;
    line-height: 2.5;
 }
 
